@@ -1,0 +1,12 @@
+{
+  "name": "martechmojo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./style.css --minify",
+    "dev":   "tailwindcss -i ./src/input.css -o ./style.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.0.0"
+  }
+}

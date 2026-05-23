@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://martechmojo.com/sitemap.xml
